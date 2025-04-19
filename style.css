@@ -1,0 +1,17 @@
+html, body{background-color: darkslategrey;}
+img{display: block; margin: auto; width: 30%;}
+h1{text-align: center; color: white; font-family: 'Courier New', Courier, monospace;}
+p{font-size:150%;}
+.ce{text-align: center;}
+#to{color:aqua;font-size: 120%;}
+.emoji{width:20px; display:inline-block; transform:translateY(4px);margin-right: 5px;}
+.go{color:white; }
+#s{padding-left: 25%;}
+#ff{padding-left: 13%;}
+.streak{background-color: white;border-radius: 1ch;border-width: 1cap;text-align: center;margin-right:7%;margin-left: 7%;}
+h2{text-align: center;}
+.days{letter-spacing: 6cap;margin-top: 4cap; margin-bottom: 2cap; margin-left: 4ch;}
+#re{color: rgb(12, 206, 12);}
+.ot{display: flex; justify-content:flex-start; margin-left: 5%;}
+.ls{margin-left: auto;padding-right: 5%;}
+
