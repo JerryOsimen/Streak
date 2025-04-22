@@ -6,8 +6,8 @@ p{font-size:150%;}
 #to{color:aqua;font-size: 120%;}
 .emoji{width:20px; display:inline-block; transform:translateY(4px);margin-right: 5px;}
 .go{color:white; margin-left: 10%; }
-#ff{padding-left:18%;}
-#lf{padding-left: 18%;}
+#ff{padding-left:20%;}
+#lf{padding-left: 20%;}
 .streak{background-color: white;border-radius: 1ch;border-width: 1cap;text-align: center;margin-right:7%;margin-left: 7%;}
 h2{text-align: center;}
 .days{letter-spacing: 6cap;margin-top: 4cap; margin-bottom: 2cap; margin-left: 4ch;}
